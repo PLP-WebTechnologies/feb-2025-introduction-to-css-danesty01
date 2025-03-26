@@ -1,0 +1,37 @@
+/* Styling using Classes, IDs, and Elements */
+
+/* Class selector */
+.container {
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #4CAF50;
+    background-color: #f9f9f9;
+    width: 80%;
+}
+
+/* ID selector */
+#header {
+    color: #333;
+    font-family: 'Arial, sans-serif';
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    background-color: aquamarine;
+}
+
+/* Element selector */
+p {
+    font-family: 'Georgia, serif';
+    line-height: 1.8;
+    color:yellowgreen
+
+    
+}
+
+/* Styling an image */
+img {
+    display: block;
+    margin: 20 auto;
+    width: 50%;
+
+}
